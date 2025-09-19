@@ -33,11 +33,8 @@ This project demonstrates how data analysis, visualization, and collaboration wi
 3. High reliance on WhatsApp & referrals for lead generation: WhatsApp (26) and referrals (21) are the most effective channels, far ahead of TikTok (13) and walk-ins (6).
 4. Customer loss is frequent and recurring: 16 respondents lose customers monthly, while 11 lose them a few times a year.
 
-##RECCOMMENDATIONS
+## RECCOMMENDATIONS
 1. Introduce a qualification step for leads (e.g., short screening or pre-commitment offers) to filter out unserious prospects before investing too much effort.
 2. Implement a CRM or reminder tool (like HubSpot, Zoho, or even WhatsApp Business auto-reminders) to automate follow-ups and ensure consistent customer engagement.
 3. Double down on these strong-performing channels; Optimize WhatsApp communication (quick replies, catalogues) and formalize referral programs with incentives.
 4. Create a customer retention strategy; Loyalty programs, periodic check-ins, and flexible pricing packages to sustain interest and reduce churn.
-
-Recommendation: Create a customer retention strategy — loyalty programs, periodic check-ins, and flexible pricing packages to sustain interest and reduce churn.
-- Act on insights: Use the dashboard for quick, data-driven business decisions.
